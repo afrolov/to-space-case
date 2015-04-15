@@ -1,0 +1,23 @@
+{
+  "name": "to-space-case",
+  "main": "index.js",
+  "version": "0.1.3",
+  "homepage": "https://github.com/defunctzombie/node-htmltree",
+  "keywords": ["space", "case", "spacecase", "string"],
+  "authors": [
+    "Ian Storm Taylor"
+  ],
+  "description": "Convert a string to a space case.",
+  "moduleType": [
+    "node",
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+  ],
+  "dependencies": {
+      "sax": "git://github.com/afrolov/to-no-case#0.1.2"
+  },
+  "devDependencies": {
+  }
+} 
